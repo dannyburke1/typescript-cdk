@@ -5,6 +5,7 @@
     "@aws-cdk/aws-ecs": "^1.92.0",
     "@aws-cdk/aws-lambda": "^1.92.0",
     "@aws-cdk/aws-route53": "^1.92.0",
-    "@aws-cdk/aws-s3": "^1.92.0"
+    "@aws-cdk/aws-s3": "^1.92.0",
+    "@aws-cdk/aws-wafv2": "^1.92.0"
   }
 }
